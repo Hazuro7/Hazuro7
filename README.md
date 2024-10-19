@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Hazuro</h1>
 
-- 🔭 Je travaille actuellement sur [Harod](https://discord.gg/mueDa4nyfR)
+- 🔭 Je travaille actuellement sur [Harod](https://discord.gg/pzNm3pfjx4)
 
 - 🌱 J'apprends actuellement le **PHP**
 
