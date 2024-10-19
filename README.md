@@ -2,7 +2,7 @@
 
 - 🔭 Je travaille actuellement sur [Harod](https://discord.gg/mueDa4nyfR)
 
-- 🌱 J'apprends actuellement **PHP**
+- 🌱 J'apprends actuellement le **PHP**
 
 - 📫 Comment me contacter **Hazuro71@outlook.com**
 
