@@ -1,5 +1,4 @@
 <h1 align="center">Bonjour 👋, je suis Hazuro</h1>
-<h3 align="center">Un développeur frontend passionné de France</h3>
 
 - 🔭 Je travaille actuellement sur [Harod](https://discord.gg/mueDa4nyfR)
 
